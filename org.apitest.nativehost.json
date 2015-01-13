@@ -1,0 +1,9 @@
+{
+   "name": "org.apitest.nativehost",
+   "description": "Native Messaging Host Test",
+   "path": "/devel/api-tests/nativehost",
+   "type": "stdio",
+   "allowed_origins": [
+     "chrome-extension://hhaopbphlojhnmbomffjcbnllcenbnih/"
+  ]
+}
